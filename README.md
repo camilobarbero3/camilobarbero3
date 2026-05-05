@@ -7,7 +7,7 @@ I am a recently graduated Data Scientist (Lic. en Ciencia de Datos) based in Bue
 ## 🛠️ Tech Stack & Skills
 *   **Languages:** Python, SQL, R
 *   **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, LightGBM
-*   **Data Visualization & BI:** Power BI, Tableau
+*   **Data Visualization & BI:** Tableau, Power BI
 *   **Big Data & Tools:** Apache Spark, Git, GitHub, Advanced Excel
 *   **Core Competencies:** Predictive Modeling, Customer Behavior Analysis, Machine Learning, Business Intelligence
 
